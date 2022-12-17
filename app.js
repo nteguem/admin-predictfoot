@@ -6,6 +6,6 @@ const app = express()
 app.use(express.static(path.join(__dirname, 'build')));
 
 // Start the app predictfoot
-app.listen(process.env.PORT || 6000, function() {
+app.listen(process.env.PORT || 8000, function() {
     console.log("app predicfoot live  started")
 })
