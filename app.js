@@ -9,5 +9,5 @@ app.use(cors())
 
 // Start the app predictfoot
 app.listen(process.env.PORT || 8000, function() {
-    console.log("app predicfoot live  started")
+    console.log("app bibemella live  started")
 })

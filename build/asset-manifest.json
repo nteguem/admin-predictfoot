@@ -1,31 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e660081c.chunk.css",
-    "main.js": "/static/js/main.37a65e43.chunk.js",
-    "main.js.map": "/static/js/main.37a65e43.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b8798b4e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b8798b4e.js.map",
-    "static/js/2.3f8b9eeb.chunk.js": "/static/js/2.3f8b9eeb.chunk.js",
-    "static/js/2.3f8b9eeb.chunk.js.map": "/static/js/2.3f8b9eeb.chunk.js.map",
+    "main.css": "/static/css/main.39486b67.css",
+    "main.js": "/static/js/main.90523e5c.js",
+    "static/media/Navbar.png": "/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "static/media/BibemellaLogo.png": "/static/media/BibemellaLogo.49be9a1ea66ae0ac4917.png",
+    "static/media/CM_MTNMOBILEMONEY.png": "/static/media/CM_MTNMOBILEMONEY.c152897731cb4283d699.png",
+    "static/media/CM_ORANGEMONEY.png": "/static/media/CM_ORANGEMONEY.9b9cc282f780649cdcd3.png",
     "index.html": "/index.html",
-    "precache-manifest.e26ea24525158fdfc92001d1f7b5f1f6.js": "/precache-manifest.e26ea24525158fdfc92001d1f7b5f1f6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e660081c.chunk.css.map": "/static/css/main.e660081c.chunk.css.map",
-    "static/js/2.3f8b9eeb.chunk.js.LICENSE.txt": "/static/js/2.3f8b9eeb.chunk.js.LICENSE.txt",
-    "static/js/main.37a65e43.chunk.js.LICENSE.txt": "/static/js/main.37a65e43.chunk.js.LICENSE.txt",
-    "static/media/backgroundLogin.png": "/static/media/backgroundLogin.8816078f.png",
-    "static/media/blk-design-system-react.scss": "/static/media/square5.ff004a0e.png",
-    "static/media/loader.gif": "/static/media/loader.fd79d998.gif",
-    "static/media/notification_big_win.png": "/static/media/notification_big_win.3216f1ce.png",
-    "static/media/nucleo-icons.css": "/static/media/nucleo.f0b489a5.woff",
-    "static/media/pp.jpg": "/static/media/pp.45899c88.jpg",
-    "static/media/react-logo.png": "/static/media/react-logo.7ae9e98d.png",
-    "static/media/soccer.jpg": "/static/media/soccer.b059054d.jpg"
+    "main.39486b67.css.map": "/static/css/main.39486b67.css.map",
+    "main.90523e5c.js.map": "/static/js/main.90523e5c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8798b4e.js",
-    "static/js/2.3f8b9eeb.chunk.js",
-    "static/css/main.e660081c.chunk.css",
-    "static/js/main.37a65e43.chunk.js"
+    "static/css/main.39486b67.css",
+    "static/js/main.90523e5c.js"
   ]
 }
